@@ -1,0 +1,22 @@
+Z:\AjaxWinform\AjaxWinform\bin\Debug\AjaxWinform.exe.config
+Z:\AjaxWinform\AjaxWinform\bin\Debug\AjaxWinform.exe
+Z:\AjaxWinform\AjaxWinform\bin\Debug\AjaxWinform.pdb
+Z:\AjaxWinform\AjaxWinform\bin\Debug\Newtonsoft.Json.dll
+Z:\AjaxWinform\AjaxWinform\bin\Debug\Newtonsoft.Json.xml
+Z:\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.Form1.resources
+Z:\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.Properties.Resources.resources
+Z:\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.csproj.GenerateResource.Cache
+Z:\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.exe
+Z:\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.pdb
+E:\My Test Projects\AjaxWinform\AjaxWinform\bin\Debug\AjaxWinform.exe.config
+E:\My Test Projects\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.exe
+E:\My Test Projects\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.pdb
+E:\My Test Projects\AjaxWinform\AjaxWinform\bin\Debug\AjaxWinform.exe
+E:\My Test Projects\AjaxWinform\AjaxWinform\bin\Debug\AjaxWinform.pdb
+E:\My Test Projects\AjaxWinform\AjaxWinform\bin\Debug\Newtonsoft.Json.dll
+E:\My Test Projects\AjaxWinform\AjaxWinform\bin\Debug\Newtonsoft.Json.xml
+E:\My Test Projects\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.Form1.resources
+E:\My Test Projects\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.Properties.Resources.resources
+E:\My Test Projects\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.csproj.GenerateResource.Cache
+E:\My Test Projects\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.csproj.CoreCompileInputs.cache
+Z:\AjaxWinform\AjaxWinform\obj\Debug\AjaxWinform.csproj.CoreCompileInputs.cache
